@@ -1,0 +1,29 @@
+/* Ajoutez ces styles dans votre fichier CSS */
+.navbar {
+    background-color: #3498db; /* Changez la couleur de fond */
+  }
+  
+  .navbar-brand,
+  .navbar-nav .nav-link {
+    color: #ffffff !important; /* Changez la couleur du texte */
+  }
+  
+/* VotreFichierCSS.css */
+/* VotreFichierCSS.css */
+.centered-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 20px;
+  }
+  
+  .greeting-message {
+    border: 2px solid red; /* Couleur de la bordure */
+    padding: 10px; /* Espace à l'intérieur de la bordure */
+    margin-top: 20px; /* Marge supérieure */
+    text-align: center; /* Centrer le texte horizontalement */
+  }
+  
+  
